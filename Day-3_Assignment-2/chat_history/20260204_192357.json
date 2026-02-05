@@ -1,0 +1,38 @@
+{
+    "id": "20260204_192357",
+    "timestamp": "2026-02-04 21:18:40.976009",
+    "messages": [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "I am a simple bot. You said: 'hello'"
+        },
+        {
+            "role": "user",
+            "content": "how are you"
+        },
+        {
+            "role": "assistant",
+            "content": "I am a simple bot. You said: 'how are you'"
+        },
+        {
+            "role": "user",
+            "content": "bye GN"
+        },
+        {
+            "role": "assistant",
+            "content": "I am a simple bot. You said: 'bye GN'"
+        },
+        {
+            "role": "user",
+            "content": "in 100 words tell me transformer"
+        },
+        {
+            "role": "assistant",
+            "content": "I am a simple bot. You said: 'in 100 words tell me transformer'"
+        }
+    ]
+}

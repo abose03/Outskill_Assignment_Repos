@@ -1,0 +1,14 @@
+{
+    "id": "20260204_204357",
+    "timestamp": "2026-02-04 20:44:01.206978",
+    "messages": [
+        {
+            "role": "user",
+            "content": "namaste"
+        },
+        {
+            "role": "assistant",
+            "content": "I am a simple bot. You said: 'namaste'"
+        }
+    ]
+}
